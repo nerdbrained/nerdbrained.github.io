@@ -22,12 +22,12 @@ repository               : "nerdbrained/nerdbrained.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "BR_webpage_image.jpeg"
+  name             : "Brendan Reid"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Project Scientist"
   location         : "New York City"
-  employer         : "University of California Santa Cruz"
+  employer         : "UC Santa Cruz"
   uri              : # URL
   email            : "nerdbrained@gmail.com" 
 
@@ -50,14 +50,14 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "emydoid"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -72,7 +72,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "temporalgenomicsworkinggroup"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
