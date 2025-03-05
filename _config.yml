@@ -13,7 +13,7 @@ title                    : "Brendan Reid / Ecology and Evolutionary Biology"
 title_separator          : "-"
 name                     : &name "Brendan Reid"
 description              : &description "Ecology and Evolutionary Biology Researcher"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://nerdbrained.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nerdbrained/nerdbrained.github.io"
 
