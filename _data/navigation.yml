@@ -5,23 +5,24 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /portfolio/
+    
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=iJFjMfAAAAAJ&hl=en
+
+#  - title: "Talks"
+#    url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /teaching/   
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/Reid_CV_022125.pdf
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
