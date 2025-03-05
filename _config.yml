@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Brendan Reid / Assistant Project Scientist"
+title                    : "Brendan Reid / Ecology and Evolutionary Biology"
 title_separator          : "-"
 name                     : &name "Brendan Reid"
 description              : &description "Ecology and Evolutionary Biology Researcher"
