@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,4 +9,6 @@ redirect_from:
 
 Hello! I'm a scientist researching ecology and evolutionary biology with applications to conservation of biodiversity.
 
-This is website is hosted through github.io.
+I work mainly on reptiles, amphibians, and fish, and I also use museum specimens extensively in my research.
+
+![turt](blandings.jpg)
