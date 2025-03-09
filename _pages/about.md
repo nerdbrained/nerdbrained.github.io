@@ -11,4 +11,4 @@ Hello! I'm a scientist researching ecology and evolutionary biology with applica
 
 I work mainly on reptiles, amphibians, and fish, and I also use museum specimens extensively in my research.
 
-![turt](blandings.jpg)
+![turt](images/blandings.jpg)
