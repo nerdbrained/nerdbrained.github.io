@@ -1,0 +1,15 @@
+---
+title: "Philippines PIRE 'Omics Workshop"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/pire_omics
+venue: "Silliman University"
+date: 2022-07
+location: "Dumaguete, Philippines"
+---
+
+With other members of the Philippines PIRE group, I co-taught a workshop on using UNIX command-line pipelines to process and analyze next-generation sequencing data. Students learned quality control for Illumina sequencing data, genome assembly and annotation, mapping data to a reference genome, and basic population structure and demographic inferences, as well as how to use GitHub and RStudio.
+
+Class materials can be found on the workshop's [GitHub repo](https://github.com/philippinespire/2022_PIRE_omics_workshop)
+
+![wacky](pire_omics.jpeg)
