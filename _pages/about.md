@@ -13,5 +13,5 @@ Hello! I'm a scientist researching ecology and evolutionary biology with applica
 
 I work mainly on reptiles, amphibians, and fish, and I also use museum specimens extensively in my research.
 
-I will be starting a faculty position at the [Université de Namur](https://unamur.be/fr) in Belgium in Fall of 2025 and will be looking for a TA/PhD student in the fall. Feel free to contact me if you are interested!
+I am a lecturer / chargé de cours at the [Université de Namur](https://unamur.be/fr) in Belgium and I'm on the lookout for interested graduate students. Feel free to contact me if you are interested!
 
