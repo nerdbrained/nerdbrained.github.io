@@ -25,11 +25,11 @@ author:
   avatar           : "BR_webpage_image.png"
   name             : "Brendan Reid"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Project Scientist"
-  location         : "New York City"
-  employer         : "UC Santa Cruz"
+  bio              : "Lecturer / Chargé de Cours"
+  location         : "Namur, Belgium"
+  employer         : "Université de Namur"
   uri              : # URL
-  email            : "nerdbrained@gmail.com" 
+  email            : "brendan.reid@unamur.be" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
