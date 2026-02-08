@@ -5,9 +5,7 @@ permalink: /people/
 
 &nbsp;
 
-Brendan Reid
-
-**Principal Investigator**
+Brendan Reid / **Principal Investigator**
 
 ![Brendan](/images/BR_webpage_image.png){: width="250" }
 
@@ -17,9 +15,7 @@ Brendan received his Masters in Conservation Biology from Columbia University an
 
 &nbsp;
 
-Mario Driesen
-
-**PhD student and teaching assistant**
+Mario Driesen / **PhD student and teaching assistant**
 
 ![Mario](/files/mario.png){: width="250" }
 
