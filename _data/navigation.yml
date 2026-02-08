@@ -8,12 +8,12 @@ main:
 
   - title: "Research"
     url: /research/
+
+  - title: "People"
+    url: /talks/ 
     
   - title: "Publications"
     url: https://scholar.google.com/citations?user=iJFjMfAAAAAJ&hl=en
-
-#  - title: "Talks"
-#    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/   
