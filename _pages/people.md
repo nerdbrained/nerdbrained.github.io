@@ -11,7 +11,7 @@ Brendan Reid
 
 ![Brendan](/images/BR_webpage_image.png){: width="250" }
 
-Brendan received his Masters in Conservation Biology from Columbia University and his PhD from the University of Wisconsin-Madison, followed by postdoctoral research at the AMNH, Michigan State, Rutgers, and UC Santa Cruz. He moved to Namur (with his wife Patrice and two cats) to begin a faculty position in 2025. 
+Brendan received his Masters in Conservation Biology from Columbia University and his PhD from the University of Wisconsin-Madison, followed by postdoctoral research at the AMNH, Michigan State, Rutgers, and UC Santa Cruz. He moved to Namur, Belgium (with his wife Patrice and two cats!) to begin a faculty position in 2025. 
 
 &nbsp;
 
